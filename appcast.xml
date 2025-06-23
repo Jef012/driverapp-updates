@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Test Update</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <sparkle:version>1.0.0</sparkle:version>
+            <description>New features and bug fixes.</description>
+            <enclosure url="https://assets.traveez.app/driverapp/driverapp.apk" sparkle:os="android" />
+        </item>
+    </channel>
+</rss>
